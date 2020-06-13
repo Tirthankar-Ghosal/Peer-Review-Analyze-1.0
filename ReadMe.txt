@@ -4,7 +4,8 @@
 
 3. Affiliation: Indian Institute of Technology (IIT) Patna, India
 
-4. The data is obtained from the ICLR 2018 reviews in https://openreview.net/. OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following: Open Peer Review, Open Publishing, Open Access, Open Discussion, Open Directory, Open Recommendations, Open API, Open Source.
+4. Data Collection: The data is obtained from the ICLR 2018 reviews in https://openreview.net/. OpenReview aims to promote openness in scientific communication, particularly the peer review process, by providing a flexible cloud-based web interface and underlying database API enabling the following: Open Peer Review, Open Publishing, Open Access, Open Discussion, Open Directory, Open Recommendations, Open API, Open Source. The OpenReview API can be used to retrieve conference data (e.g. papers, comments, decisions, reviews, etc.) for research or other purposes.
+https://openreview-py.readthedocs.io/en/latest/getting_data.html
 
 5. Peer-Review-Analyze-1.0.zip is the main dataset folder. It contains three sub folders: 1- Accepted
 2- Rejected  
@@ -17,3 +18,4 @@ Each sub-folder consists of the raw reviews and annotated reviews in .txt files
 7. Associated codes for the experiments are in Peer-Review-Analyze-1.0-Codes.zip
 
 8. annotation_status.numbers records the annotation progress
+
